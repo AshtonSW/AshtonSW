@@ -17,7 +17,7 @@ Life Science and Computer Science & Engineering(2020.3 ~ )
 😄 Loves to solve problems
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjsw)](https://solved.ac/bjsw/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=AshtonSW)](https://solved.ac/AshtonSW/)
 
 
 📫 How to reachme
