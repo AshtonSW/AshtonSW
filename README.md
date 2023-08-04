@@ -6,7 +6,7 @@
 ✔️ Sogang University (📍Mapo, Seoul)
 
 
-Life Science and Computer Science & Engineering(2020.3 ~ )
+Life Science and Computer Science & Engineering(2020.3 ~ / Bachelor)
 <!--
 💻Technology Stack
 
@@ -18,6 +18,7 @@ Life Science and Computer Science & Engineering(2020.3 ~ )
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=AshtonSW)](https://solved.ac/AshtonSW/)
+
 
 
 📫 How to reachme
