@@ -3,7 +3,7 @@
 
 🌱Education
 
-✔️ Sogang University (📍Mapo, Seoul)
+✔️ -- University (📍--, --)
 
 
 Life Science and Computer Science & Engineering(2020.03 ~ 2024.02/ Bachelor)
