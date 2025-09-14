@@ -28,10 +28,6 @@ Life Science and Computer Science & Engineering(2020.03 ~ 2024.02/ Bachelor)
  <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://AshtonSW.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="https://instagram.com/won.sss">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/won.sss/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="mailto:sprauncy76@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sprauncy76@gmail.com"
